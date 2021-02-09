@@ -1,3 +1,5 @@
+> 아이디어 사용료는 스타로 충분합니다 \:)
+
 ## RandomNumberExample
 ![Demo](docs/RandomNumberExample.gif)
 
